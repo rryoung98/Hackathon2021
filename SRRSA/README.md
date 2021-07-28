@@ -8,9 +8,10 @@ In the following project we apply various Quantum algorithms to weather related 
 ## Setup
 1. Make sure you're using a conda environment with pythone 3.8.
 
-2. If you don't have one, run this code in your terminal: 'conda create --name myenv'
+2. If you don't have one, run this code in your terminal: `conda create --name myenv python=3.8`
 
-3. 'pip install -r requirements.txt'
+3. Install all the required file, you might have trouble with pytorch (if so message us) `pip install -r requirements.txt`
+
 
 ## How to Use
 For judges feel free run to run the setup and explore the technical documentation found in
@@ -35,7 +36,7 @@ PennyLane,Rigetti,IMBQ
 ## Requirments
 
 After you have activate your environment, before you install anything, make sure
-to update your pip with: pip install --upgrade pip
+to update your pip with: `pip install --upgrade pip`
 
 ## Installation/plugins with jupyter
 
